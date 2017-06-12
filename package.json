@@ -1,0 +1,15 @@
+{
+  "name": "structor-bootstrap",
+  "version": "1.0.0",
+  "description": "Bootstrap module for structor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "structor",
+    "bootstrap"
+  ],
+  "author": "Fi1osof",
+  "license": "Apache-2.0"
+}
