@@ -11,5 +11,13 @@
     "bootstrap"
   ],
   "author": "Fi1osof",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fi1osof/structor-bootstrap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Fi1osof/structor-bootstrap/issues"
+  },
+  "homepage": "https://github.com/Fi1osof/structor-bootstrap#readme"
 }
